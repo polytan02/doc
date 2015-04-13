@@ -107,6 +107,7 @@ The packagers will appreciate your remarks. If you test them and find issues, or
 | [COPS](http://cops.com) | lunarok | <div class="ready"/> | https://github.com/lunarok/cops_ynh | Frontend for Calibre library |
 | [Couchpotato](https://couchpota.to/) | Chao-Man | <div class="ready"/> | https://github.com/Chao-Man/couchpotato_ynh | PVR for Usenet and torrents |
 | Custom Webapp (Multi instance) | Maniack Crudelis | <div class="ready"/> | https://github.com/maniackcrudelis/my_webapp_ynh |Custom Webapp |
+| [webapp_multi_ynh](https://github.com/polytan02/webapp_multi_ynh) | polytan02 | <div class="ready"/> | https://github.com/polytan02/webapp_multi_ynh | Multi Instances & Multi Domains Web App Without FTP Support |
 | [EmailPoubelle](http://forge.zici.fr/p/emailpoubelle-php/) | matlink | <div class="inprogress"/> | https://github.com/matlink/emailpoubelle_ynh | Disposable email |
 | [EtherCalc](https://ethercalc.org/) | zamentur | <div class="inprogress"/> | https://github.com/zamentur/ethercalc_ynh | Web spreadsheet |
 | [Etherpad-Lite](http://etherpad.org) | beudbeud | <div class="ready"/> | https://github.com/abeudin/etherpadlite_ynh | Real-time collaborative document editing |
